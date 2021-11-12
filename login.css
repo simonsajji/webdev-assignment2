@@ -1,0 +1,61 @@
+.b{
+    background:url('loginb.jpg');
+    background-repeat:no-repeat;
+    
+}
+
+#div1{
+    width: 500px;
+    height: 600px;
+    background-color: red;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    background: rgba(90, 81, 81, 0.4) /* Green background with 30% opacity */
+    
+      
+}
+.inp{
+    opacity: 0.5;
+    font-size:24px;
+
+    
+}
+.form{
+    width: 300px;
+    height: 700px;
+   
+    
+    position: relative;
+    top: 80px;
+    bottom: 80px;
+    left: 80px;
+    right: 80px;
+
+}
+#h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.9;
+    color: rgb(56, 12, 12);
+}
+#click{
+    text-decoration: none;
+    font-family: Verdana;
+    color:burlywood;
+    text-align: center;
+}
+#sub{
+    font-size:20px;
+    font-family: monospace;
+    text-align: center;
+
+}
+#dsub{
+    text-align: center;
+}
