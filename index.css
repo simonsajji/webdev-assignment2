@@ -63,6 +63,8 @@ float:right; width:80%; height:800px;text-align: center;
 }
 #header{
     background:url('template.jpg');
+    width:100%;
+    position:fixed;
    
     height: 100px;
 }
